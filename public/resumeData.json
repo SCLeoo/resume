@@ -42,9 +42,21 @@
         "degree": "Degree in Computer Science",
         "graduated": "December 2021",
         "description": "Graduated with a score of 8.97 / 10"
+      },
+      {
+        "school": "Colegio Cervantes de Torreón",
+        "degree": "High School",
+        "graduated": "May 2015",
+        "description": "Graduated with a score of 9.1 / 10"
       }
     ],
     "work": [
+      {
+        "company": "Inflection Point Systems",
+        "title": "FRONTEND DEVELOPER",
+        "years": "February 2021 - ",
+        "description": "Worked in an internal project as part of the front-end team. Main activities involved styling and development of web components in an Angular environment."
+      },
       {
         "company": "Free Lancer for PEÑOLES",
         "title": "VR & AR ENGINEER",
