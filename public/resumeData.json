@@ -1,8 +1,8 @@
 {
   "main": {
     "name": "Leo Salazar",
-    "occupation": "Student",
-    "description": "Dedicated and passionate, interested in computer science since a very young age with 6 years of working experience",
+    "occupation": "Front End Developer",
+    "description": "Dedicated and passionate, interested in computer science since a very young age with 7 years of working experience",
     "image": "IG_Leo.jpg",
     "bio": "Dedicated and passionate, interested in computer science since a very young age with 6 years of working experience. Able to develop in multiple areas, great versatility and expertise in several scopes, such as web development, teaching and customer services.\nSocial and logical abilities that help for troubleshooting, always ready to learn something new and willing to sort out adversities even under a lot of pressure. All of this adds up to being a role model, always delivering the best and encouraging everyone to do the same.",
     "contactmessage": "Contact me!",
@@ -40,8 +40,8 @@
       {
         "school": "Instituto Tecnológico de la Laguna",
         "degree": "Degree in Computer Science",
-        "graduated": "Will finish on 2021",
-        "description": "Actual score of 9.0"
+        "graduated": "December 2021",
+        "description": "Graduated with a score of 8.97 / 10"
       }
     ],
     "work": [
@@ -108,6 +108,18 @@
     ],
     "skills": [
       {
+        "name": "Angular",
+        "level": "80%"
+      },
+      {
+        "name": "React",
+        "level": "50%"
+      },
+      {
+        "name": "Vue",
+        "level": "60%"
+      },
+      {
         "name": "HTML5",
         "level": "100%"
       },
@@ -117,7 +129,7 @@
       },
       {
         "name": "Git",
-        "level": "60%"
+        "level": "90%"
       },
       {
         "name": "PHP",
@@ -146,8 +158,8 @@
   "testimonials": {
     "testimonials": [
       {
-        "text": "+52 (871) 158-2039 · Colegio Cervantes Jr High School Principle",
-        "user": "Max Cuevas"
+        "text": "+52 (811) 695-9439 · Inflection Point Systems Leader",
+        "user": "Hadwin Zaragoza"
       },
       {
         "text": "+52 (871) 462-4931 · Intarsia",
